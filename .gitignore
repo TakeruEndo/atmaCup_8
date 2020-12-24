@@ -1,0 +1,9 @@
+unused_file
+Doc
+__pycache__
+notebooks/.ipynb_checkpoints
+catboost_info
+.DS_Store
+outputs/*
+inputs/*
+FE/nlp/models/*
