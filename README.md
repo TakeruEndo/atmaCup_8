@@ -1,11 +1,10 @@
-## atmaCup8
-Public: 25位  
-Private: 27位
+# atmaCup8
+Public: 25 / Private: 27
 
-## モデル
+## Models
 lightGBM + Catboost
 
-## コンペURL 
+## URL 
 https://www.guruguru.science/competitions/13
 
 
